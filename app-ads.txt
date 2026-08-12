@@ -1,0 +1,3 @@
+# Replace the placeholder line below with the exact app-ads.txt line provided by Google AdMob.
+# Example:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
